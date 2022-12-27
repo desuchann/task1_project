@@ -1,4 +1,4 @@
-Hyperion Dev Git Study - Extension!
+<a href="https://github.com/desuchann/hyperion_dev"> Hyperion Dev</a> Git Study - Extension!
 --
 Independently learning how to push git changes from local to my chosen repository.
 
